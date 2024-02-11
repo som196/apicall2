@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.currency-logo {
+  height: 50px;
+  width: 50px;
+  margin: 20px;
+}
+* {
+  color: #ffffff;
+}
+.logo-name-container {
+  display: flex;
+  flex-direction: row;
+}
+.usd-euro-container {
+  display: flex;
+  flex-direction: row;
+}
+.details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.usd-value {
+  margin: 20px;
+}
+.euro-value {
+  margin: 20px;
+}
+.currency-name {
+  margin: 20px;
+}
